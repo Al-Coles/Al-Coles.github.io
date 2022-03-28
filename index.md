@@ -2,4 +2,4 @@ Check the details of your orderID
 
 [This is a link to the app (if installed)](https://al-coles.github.io/app/appPath)
 
-[This is a link to another part of the site](https://al-coles.github.io/internal/interal)
+[This is a link to another part of the site](https://al-coles.github.io/internal/internal)
