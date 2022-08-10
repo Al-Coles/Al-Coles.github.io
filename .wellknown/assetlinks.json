@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.coles.android.shopmate",
+    "sha256_cert_fingerprints":
+    ["D7:A6:13:8E:26:15:85:32:DD:71:A0:89:48:DB:64:54:4E:3F:09:53:75:2D:A9:E7:C6:08:D1:66:1C:FA:68:10"]
+  }
+}]
